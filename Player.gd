@@ -2,8 +2,8 @@ extends KinematicBody2D
 
 
 # Declare member variables here. Examples:
-var speed = 200
-var jumpspeed = -180
+var speed = 100
+var jumpspeed = -120
 var gravity = 200
 var velocity = Vector2.ZERO
 
